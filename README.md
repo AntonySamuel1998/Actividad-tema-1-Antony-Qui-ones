@@ -1,1 +1,9 @@
 # Actividad-tema-1-Antony-Qui-ones
+
+# Desarrollar app enfocada a mejorar el sistema de bus de la ciudad de Jaen
+
+Solucionar el problema del uso de plasticos en tarjetas o ir a lugares lejos de casa a recargar esas tarjetas y siempre en efectivo, tambien para mejorar y saber colocando el nombre de la calle que numero de bus pasa por el lugar seleccionado, para crear una app en la que enlazas tu tajeta y pagas mediante contacto con la tarjeta de tu propio banco (todo esto suponiendo que se cambia todo el sistema de cobro en cada bus, para actualizar a este sistema de pago), para Android e Ios usando lenguaje Java
+
+Creando una app sencilla para descargar en android e Ios cuya interfaz inicial muestre una imagen de la ciudad de vista area, con el nombre del sistema de bus de la ciudad, con un fondo en verde olivo, boton en la parte superior derecha para ayuda o soporte tecnico, en la parte baja dos botones, uno para registro y otro para inicio de sesion, al entrar en registro sea simple, pida tu numero DNI, NIE o Pasaporte, nombre completo, creacion de clave, correo electronico, numero celular y agregar tarjeta de banco (pueden ser mas de 1, maximo 5). Para inicio de sesion el usuario sera el numero de identificacion DNI, NIE o pasaporte y la clave creada, al iniciar sesion el fondo sea verde olivo igual, muestre el nombre del sistema de bus de la ciudad de Jaen, y en el centro muestre la tarjeta en uso (algo como apple pay), arriba en la parte superior derecha tu perfil, en el cual puedes colocar una foto tuya, mas edicion del perfil, borrar o agregar tarjetas, verificacion de identidad (enviando un codigo al correo o numero celular para verificar), abajo en la parte inferior una barra donde coloques el nombre de la calle a donde vas y al colocarla te muestre que numero de bus pasa y mediante tu ubicacion que parada tienes carca de ti 
+
+//Algoritmo o paradigma a usar: que cada opcion (botones) dentro del codigo este bien especifica 
